@@ -1,9 +1,10 @@
-package com.example.springboot.controllers;
+package tech.escriba.springboot.controllers;
 
-import com.example.springboot.dtos.ProductRecordDto;
-import com.example.springboot.models.ProductModel;
-import com.example.springboot.repositories.ProductRepository;
 import jakarta.validation.Valid;
+import tech.escriba.springboot.dtos.ProductRecordDto;
+import tech.escriba.springboot.models.ProductModel;
+import tech.escriba.springboot.repositories.ProductRepository;
+
 import org.springframework.beans.BeanUtils;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.example.springboot.models;
+package tech.escriba.springboot.models;
 
 import jakarta.persistence.*;
 import org.springframework.hateoas.RepresentationModel;

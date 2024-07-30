@@ -1,4 +1,4 @@
-package com.example.springboot.dtos;
+package tech.escriba.springboot.dtos;
 
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
